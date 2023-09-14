@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-qr-code-page-iSJRD8X-SO)
 - Live Site URL: [Live site URL](https://dashing-mochi-5099fd.netlify.app)
 
 ## My process
